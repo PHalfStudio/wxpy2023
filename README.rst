@@ -1,4 +1,4 @@
-wxpy: 用 Python 玩微信
+wxpy2023: 用 Python 玩微信
 ==============================
 
 .. image:: https://badge.fury.io/py/wxpy.svg
@@ -13,8 +13,6 @@ wxpy: 用 Python 玩微信
 微信机器人 / 可能是最优雅的微信个人号 API
     wxpy 在 itchat 的基础上，通过大量接口优化提升了模块的易用性，并进行丰富的功能扩展
     wxpy2023在wxpy的基础上，通过添加替换微信linux客户端中的密钥
-    
-    
     就算是刚刚注册的微信账号也能成功登陆微信
 
 
